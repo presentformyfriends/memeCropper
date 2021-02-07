@@ -15,7 +15,7 @@ If you would rather run this from the Python shell, just comment out the "CONTEX
 ![memeCrop.gif](img/memeCrop.gif)
 
 
-Depending on the use of a specific shade of white within the image, it's possible that the crop function will fail, as in the example below.
+Depending on the presence of a specific shade of white within the screenshot, it's possible that the crop function will fail, as in the example below.
 
 
 ![memeCropError.gif](img/memeCropError.gif)
