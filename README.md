@@ -11,11 +11,15 @@ The uncommented code block labeled "CONTEXT MENU" under the main section is, in 
 
 If you would rather run this from the Python shell, just comment out the "CONTEXT MENU" block, and uncomment either the block labeled "CROP SINGLE IMAGE" for a single image, or the block labeled "BATCH CROP" for an entire folder of images.
 
+
 ![memeCrop.gif](img/memeCrop.gif)
+
 
 Depending on the use of a specific shade of white within the image, it's possible that the crop function will fail, as in the example below.
 
+
 ![memeCropError.gif](img/memeCropError.gif)
+
 
 That being said, the script works very well for most Instagram screenshots.
 
