@@ -5,7 +5,7 @@ Python script to perfectly crop your Instagram screenshots.
 
 Bla Bla Bla
 
-![memeCropper.gif](img/memeCropper.gif)
+![memeCropper2.gif](img/memeCropper.gif)
 
 ## :snake: Dependencies
 
