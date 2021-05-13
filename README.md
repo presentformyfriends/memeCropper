@@ -1,4 +1,4 @@
-# Meme Cropper
+# Shot Cropper
 Python script to perfectly crop your Instagram screenshots. Written for Windows but can be adapted for other OS.
 
 The crop function starts from the middle of the image and iterates over the pixels up and down the y-axis until it finds the top and bottom white lines. It also detects and crops out any vertical black bars that may exist on either side of the image.
